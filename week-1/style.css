@@ -1,164 +1,132 @@
-/* Basic Reset */
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ margin: 10;
+padding: 0;
+box-sizing:  border-box;
+font-family: 'segoe ui,tahoma,geneva,verdana,sans-serif;';
 }
-
-/* Main Container - Jo screen ko do bhagon mein baantta hai */
-.main-container {
+body{
+    background-color:#f6f8fa ;
     display: flex;
-    height: 100vh;
-    width: 100%;
-}
-
-/* Left Section Styling */
-.left-section {
-    background-color: #000000; /* Deep black background */
-    color: white;
-    width: 50%;
-    display: flex;
-    align-items: center;
     justify-content: center;
-    padding: 40px;
-}
-
-.content-wrapper {
-    max-width: 500px;
-}
-
-.logo-text {
-    font-size: 24px;
-    margin-bottom: 50px;
-    font-weight: 600;
-}
-
-h1 {
-    font-size: 42px;
-    line-height: 1.2;
-    margin-bottom: 30px;
-}
-
-.features {
-    list-style: none;
-    margin-bottom: 40px;
-}
-
-.features li {
-    margin-bottom: 15px;
-    font-size: 18px;
-    color: #cbd5e0;
-}
-
-/* Icons ke liye placeholder (Aap emojis bhi use kar sakte hain) */
-.features li::before {
-    content: "✓";
-    margin-right: 10px;
-    color: #4a5568;
-}
-
-.trusted-text {
-    font-size: 14px;
-    color: #718096;
-    margin-bottom: 20px;
-}
-
-.brand-logos {
-    display: flex;
-    gap: 25px;
-    font-size: 20px;
-    font-weight: bold;
-    opacity: 0.6;
-    margin-bottom: 30px;
-    text-transform: capitalize;
-}
-
-.rating {
-    font-size: 14px;
-    color: #a0aec0;
-}
-
-/* Right Section Styling */
-.right-section {
-    background-color: #ffffff;
-    width: 50%;
-    display: flex;
     align-items: center;
-    justify-content: center;
-    padding: 40px;
-}
+   min-height: 100vh;
 
-.form-container {
+}
+.signup-card{
+    background : white;
     width: 100%;
-    max-width: 400px;
-}
+    padding: 40px;
+    text-align: center;
+    border-radius: 16px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+    width: 440px;
+    display: flex;
+    flex-direction: column;
 
-.form-container h2 {
-    font-size: 28px;
-    margin-bottom: 10px;
-    color: #1a202c;
 }
-
-.form-container p {
-    color: #718096;
-    margin-bottom: 30px;
+.log0{
+    display:block;
+    margin:0 auto 16px auto;
+    font-size: 1.1rem;
+    /* margin-bottom: 40px; */
+    /* font-weight: 700; */
+     color:#111; 
+     text-align: center;
+     font-weight: bold;
 }
+h1{
+    font-size:1.8rem;
+    margin-bottom:32px ;
+    font-weight: 700;
+    margin-bottom: 32px;
+    color:#111;
 
-/* Input Fields Styling */
-.input-group {
-    margin-bottom: 20px;
 }
+.google-btn {
+     width: 100%; 
+     padding:12px; 
+     border:1px solid #ddd; 
+     background :white;
+     border-radius: 8px; 
+     font-size: 1rem;
+     color:#333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+     cursor: pointer; 
+     font-weight: 500; 
+     margin-bottom: 24px; 
+     transition: background-color 0.2s ease;
 
+}
+.google-btn :hover {
+    /* width: 18px; */
+    background-color: #f9f9f9;
+}
+.form-group{
+    text-align: left;
+    margin-bottom:20px;
+}
 .input-group label {
     display: block;
+    /* text-align: left; */
     margin-bottom: 8px;
-    font-weight: 500;
-    color: #4a5568;
-    font-size: 14px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color:#555;
 }
-
 .input-group input {
-    width: 100%;
-    padding: 12px 15px;
-    border: 1px solid #e2e8f0;
-    border-radius: 8px;
-    font-size: 16px;
-    background-color: #f7fafc;
-}
-
-/* Next Button Styling */
-.next-btn {
-    background-color: #2d3748;
-    color: white;
-    padding: 12px 35px;
-    border: none;
-    border-radius: 25px;
-    font-size: 16px;
+    display:block;
+    width: 100px;
+    padding:14px;
+    color:white;
+    border:none;
     cursor: pointer;
-    margin-top: 10px;
-    transition: background 0.3s;
+    border-radius:8px;
+    font-size: 1rem;
+    font-weight: 600px;
+    background-color: #3e4a5b;
+    outline: none;
+    /* box-sizing: border-box; */
+    transition: background-color 0.2s ease;
+}
+.submit-btn:hover{
+    background-color: #2c3644;
+}
+.footer-text {
+color:#555;
+margin-top: 24px;
+font-size: 0.95rem;
 }
 
-.next-btn:hover {
-    background-color: #1a202c;
-}
+/* text-decoration: none; */
+/* font-weight: 500; */
+.footer-text a{
+    color:#000;
+    font-weight: 600;
+    text-decoration: none;
+    margin-left: 4px;
 
-/* Progress Bar at the bottom */
-.progress-bar {
-    display: flex;
-    gap: 10px;
-    margin-top: 50px;
 }
+.submit-btn{
+    width:100%;
+    padding:12px;
+    background-color: #3e4a5b;
+    color:white;
+    border:none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor:pointer;
+    margin-top:10px;
 
-.step {
-    height: 4px;
-    width: 60px;
-    background-color: #edf2f7;
-    border-radius: 2px;
 }
+/* .footer-text{ */
+    /* margin-top:20px; */
+   /* font-size:0.9rem; */
+    /* color:#666; */
 
-.step.active {
-    background-color: #1a202c;
-}
-
+/* .footer-text a{ */
+    /* color:#000; */
+    /* text-decoration: none; */
+    /* font-size: 500; */
