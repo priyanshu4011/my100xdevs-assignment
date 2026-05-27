@@ -11,6 +11,6 @@ All weekly assignments from the cohort.
 * [Week 6](./week-6)
 * [Week 7-8:Nodejs Assignment](./01-nodejs)
 * [week 7-8: Middleware Assignment](./02-middleware)
-*  [week 7-8:jwt assignment] (./03-jwt)
-*  [week 7-8:HTTP server Assignments]  (./http-server)
+*  [week 7-8:jwt assignment](./03-jwt)
+*  [week 7-8:HTTP server Assignments](./http-server)
   
