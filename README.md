@@ -9,7 +9,5 @@ All weekly assignments from the cohort.
   * [VS Code Clone](./week-1/vs-code-clone-main/index.html)
   * [Assignment 3](./week-1/assignment-3-main/index.html)
 * [Week 6](./week-6)
-* [Week 7-8](./01-nodejs)
-* (./02-middleware)
-* (./http-server)
-* 
+* [Week 7-8](./01-nodejs)(./02-middleware)(./03-jwt)(./http-server)
+  
