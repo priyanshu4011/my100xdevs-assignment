@@ -10,6 +10,6 @@ All weekly assignments from the cohort.
   * [Assignment 3](./week-1/assignment-3-main/index.html)
 * [Week 6](./week-6)
 * [Week 7-8](./01-nodejs)
-* [week 7-8](./02-middleware)
-* [week 7-8](./http-server)
+* (./02-middleware)
+* (./http-server)
 * 
