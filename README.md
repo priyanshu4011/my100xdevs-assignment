@@ -1,19 +1,16 @@
-# 100xdevs-bootcamp-1 Assignments
+Setup & Execution
+Follow these simple steps to get your project running and tested.
 
-All weekly assignments from the cohort.
+1. Install Dependencies
+Run this command in your terminal to install express, jsonwebtoken, and the jest testing framework:
 
-## Weeks
+npm install
+2. Run the Assignments
+To check if your code logic is correct, run the following test script:
 
-* [Week 1](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-1)
-    * [ElevenLabs Clone](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/elevenlabs-io-contact-sale-main)
-    * [VS Code Clone](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/vs-code-clone-main)
-    * [Assignment 3](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/assignment-3-main)
-* [Week 6](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-6)
-* [Week 7-8: Node.js Assignment](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/01-nodejs)
-* [Week 7-8: Middleware Assignment](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/02-middleware/tests)
-* [Week 7-8: JWT Assignment](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/03-jwt/tests)
-* [Week 7-8: HTTP Server Assignments](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/http-server)
-* [Week 9](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-9)
-    * [01-jwt](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/01-jwt)
-    * [02-jwt](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/02-jwt)
-    * [03-jwt](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/03-jwt)
+npm run test-jwt
+3. Folder Structure
+Ensure your files are organized as follows for the script to work:
+
+index.js (Your logic and exports)
+tests/index.spec.js (The test cases) 
