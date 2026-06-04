@@ -13,7 +13,7 @@ All weekly assignments from the cohort.
 * [Week 7-8: Middleware Assignment](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/02-middleware/tests)
 * [Week 7-8: JWT Assignment](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/03-jwt/tests)
 * [Week 7-8: HTTP Server Assignments](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/http-server)
-* [Week 9](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-9)
-    * [01-jwt](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-9/01-jwt)
+* [Week 9](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-9/01-jwt](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-9/01-jwt)
+  
     * [02-jwt](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-9/02-jwt)
     * [03-jwt](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-9/03-jwt)
