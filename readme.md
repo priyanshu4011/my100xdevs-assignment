@@ -18,3 +18,4 @@ All weekly assignments from the cohort.
     * [01-jwt](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/01-jwt)
     * [02-jwt](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/02-jwt)
     * [03-jwt](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/03-jwt)
+*[week 11](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-11)
