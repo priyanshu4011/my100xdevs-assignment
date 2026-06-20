@@ -24,7 +24,7 @@ All weekly assignments from the cohort.
 * [Week 11](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/Week-11)
 * [Week 12](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/Week-12)
 * [Week 13](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/Week-13)
-* [Week 16](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/Week-16
+* [Week 16](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/Week-16)
 * [Week 18](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/Week-18)
 
 
