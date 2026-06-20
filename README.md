@@ -10,13 +10,11 @@ All weekly assignments from the cohort.
   * [Assignment 3](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/assignment-3-main)
     
   * [javaScript-assignment](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/javaScript-assignment)
-    *[01-async-js](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/01-async-js)
-    *[01-js](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/01-js)
-    *[js-basics](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/js-basics)
-    *[js-built-ins](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/js-built-ins)
-    
-    
-
+  * [01-async-js](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/01-async-js)
+  * [01-js](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/01-js)
+  * [js-basics](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/js-basics)
+  * [js-built-ins](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/js-built-ins)
+   
 * [Week 6](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-6)
 
 * [Week 7-8: Node.js Assignment](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/01-nodejs)
