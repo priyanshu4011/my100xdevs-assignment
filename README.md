@@ -1,27 +1,43 @@
-# 100xdevs-bootcamp-1 Assignments
+## Typescript Assignments
 
-All weekly assignments from the cohort.
+This folder contains assignments focused on problem solving using TypeScript.
 
-## Weeks
+## Development Setup
 
-* [Week 1](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-1)
-    * [ElevenLabs Clone](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/elevenlabs-io-contact-sale-main)
-    * [VS Code Clone](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/vs-code-clone-main)
-    * [Assignment 3](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/assignment-3-main)
-      
-   * [javascipt-Assignment-2](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-2)
-* [Week 6](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-6)
-* [Week 7-8: Node.js Assignment](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/01-nodejs)
-* [Week 7-8: Middleware Assignment](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/02-middleware/tests)
-* [Week 7-8: JWT Assignment](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/03-jwt/tests)
-* [Week 7-8: HTTP Server Assignments](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/http-server)
-* [Week 9](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-9)
-    * [01-jwt](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/01-jwt)
-    * [02-jwt](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/02-jwt)
-    * [03-jwt](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/03-jwt)
-      
-* [week-11](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-11)
-*  [week-12](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-12)
-* [week-13](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-13)
-* [week-16](https://github.com/priyanshu4011/my100xdevs-assignment/tree/main/week-16)
+### Option 1: Run Locally (Requires Node.js)
+
+1. Ensure you have [Node.js](https://nodejs.org/) installed.
+2. Clone or download this repository.
+3. Navigate to the respective assignment folder and execute the script using Node.js.
+
+### Option 2: Run on Replit (No Local Setup Required)
+
+1. Copy the assignment code to [Replit](https://replit.com/).
+2. Execute the script in Replit's environment.
+
+---
+
+## Running Tests
+
+### For All Assignments
+
+1. Navigate to /typescript-assignment/
+2. Install dependencies using:
+   ```sh
+   npm install
+   ```
+3. Run specific tests with:
+   ```sh
+   npm run <test-name>
+   ```
+   Example:
+   ```sh
+   npm run test-greet
+   ```
+4. To execute all tests at once, run:
+   ```sh
+   npm run all
+   ```
+
+
 
